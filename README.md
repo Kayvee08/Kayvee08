@@ -11,7 +11,7 @@
     <li><a href = "https://twitter.com/kay_vee_khatra">Twitter</a></li>
   </ul>  
 </div>
-- 🔭 I’m currently open to collaborate and looking for Internship Opportunities.
+- 🔭 Android Developer intern at Krishi Network
 <!--
 **Kayvee08/Kayvee08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
