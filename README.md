@@ -1,5 +1,5 @@
 <h1>My Name is Karanveer Singh 👋</h1>
-<h5>Currently Working as an Android Developer@Airtel.</h5>
+<h5>Currently Working as an Android Developer@Zomato</h5>
 <h5>Android Developer</h5>
 <h5>Front End Web Developer</h5>
 <h5>UI/UX</h5>
